@@ -1,5 +1,5 @@
 /*
-Name: CharacterMovement_RootMotion
+Name: CharacterMovement RootMotion
 Description: Click-to-move character controller using NavMeshAgent, Animator root motion, DOTween speed blending, interactable targeting, look-only behavior for nearby targets, and double-click run input.
 Tags: movement, navmesh, rootmotion, inputsystem, interactable, dotween
 Dependencies: DG.Tweening, Unity.InputSystem
